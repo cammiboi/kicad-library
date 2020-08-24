@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF PQ2614BLA-3R3K L 0 40 N N 1 F N
 F0 "L" -50 0 50 V V C CNN
 F1 "PQ2614BLA-3R3K" 110 0 50 V V C CNN
-F2 "" 0 0 50 H I C CNN
+F2 "footprints:L_Bourns_PQ2614BLA" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "Bourns" 0 0 50 H I C CNN "Manufacturer"
 $FPLIST

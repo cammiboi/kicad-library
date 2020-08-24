@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF 7799 J 0 40 N N 1 F N
 F0 "J" 220 30 50 H V C CNN
 F1 "7799" 300 -50 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
+F2 "footprints:Keystone_7799" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  TerminalBlock*:*
