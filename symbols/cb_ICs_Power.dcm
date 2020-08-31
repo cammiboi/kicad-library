@@ -6,4 +6,10 @@ K ldo regulator voltage linear
 F http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/bdxxfc0wefj-e.pdf
 $ENDCMP
 #
+$CMP TPS22919DCKT
+D 5.5V, 1.5A, 90-mΩ Self-Protected Load Switch with Controlled Rise Time
+K high-side power distribution switch
+F https://www.ti.com/lit/ds/symlink/tps22919.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1598855606344
+$ENDCMP
+#
 #End Doc Library
