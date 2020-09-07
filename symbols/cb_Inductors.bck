@@ -6,6 +6,12 @@ K inductor choke coil reactor magnetic
 F https://www.bourns.com/docs/product-datasheets/pq2614.pdf?sfvrsn=731575f6_12
 $ENDCMP
 #
+$CMP TYA252012100M-10
+D Shielded Power Inductor
+K inductor choke coil reactor magnetic
+F https://www.mouser.com/datasheet/2/987/TYA252012_series_(Rev_A)-1864563.pdf
+$ENDCMP
+#
 $CMP TYS50406R8M-10
 D Shielded Power Inductor
 K inductor choke coil reactor magnetic

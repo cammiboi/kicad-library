@@ -6,13 +6,31 @@ K capacitor cap
 F ~
 $ENDCMP
 #
+$CMP C_0402_50V_X7R_10n
+D Unpolarized capacitor, small symbol
+K capacitor cap
+F ~
+$ENDCMP
+#
 $CMP C_0603_100V_X7R_10n
 D Unpolarized capacitor, small symbol
 K capacitor cap
 F ~
 $ENDCMP
 #
+$CMP C_0603_10V_X7R_1u
+D Unpolarized capacitor, small symbol
+K capacitor cap
+F ~
+$ENDCMP
+#
 $CMP C_0603_50V_X7R_100n
+D Unpolarized capacitor, small symbol
+K capacitor cap
+F ~
+$ENDCMP
+#
+$CMP C_0805_50V_X7R_1u
 D Unpolarized capacitor, small symbol
 K capacitor cap
 F ~

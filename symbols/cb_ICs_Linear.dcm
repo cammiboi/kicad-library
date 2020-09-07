@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INA2180A4IDSG
+D Dual High-Side Voltage Output, Current-Sense Amplifiers
+K current sense amplifier
+F https://www.ti.com/lit/ds/symlink/ina2180.pdf?ts=1599292186768&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FINA2180%253FHQS%253DTI-null-null-octopart-df-pf-null-wwe
+$ENDCMP
+#
+$CMP LM2901Q4T
+D Quad Differential Comparators, DIP-14/SOIC-14/TSSOP-14
+K cmp open collector
+F https://www.st.com/resource/en/datasheet/lm2901.pdf
+$ENDCMP
+#
+#End Doc Library
