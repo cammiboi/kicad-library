@@ -12,6 +12,18 @@ K diode Schottky
 F https://assets.nexperia.com/documents/data-sheet/PMEG4010EGW.pdf
 $ENDCMP
 #
+$CMP SMCJ16A
+D TVS DIODE
+K ESD5Z3.3T1GOSCT-ND
+F https://www.littelfuse.com/products/tvs-diodes/surface-mount/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smcj_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP SMCJ24A
+D TVS DIODE 24V
+K ESD5Z3.3T1GOSCT-ND
+F https://www.littelfuse.com/products/tvs-diodes/surface-mount/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smcj_datasheet.pdf.pdf
+$ENDCMP
+#
 $CMP SS34B-HF
 D Schottky diode
 K diode Schottky

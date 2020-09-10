@@ -6,4 +6,10 @@ K screw terminal
 F ~
 $ENDCMP
 #
+$CMP B2C-PCB
+D 115A screw wire terminal, solder
+K screw terminal
+F https://lugsdirect.com/B2C-PCB-HEX.htm
+$ENDCMP
+#
 #End Doc Library

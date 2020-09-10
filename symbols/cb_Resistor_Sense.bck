@@ -1,15 +1,14 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 0.5m
+$CMP CSRL3-0R0005F8
 D Shunt resistor, 0.5m, 2512 3W
 K R res shunt resistor
 F https://riedon.com/media/pdf/CSRL.pdf
 $ENDCMP
 #
-$CMP CSRL3-0R0005F8
-D Shunt resistor, 0.5m, 2512 3W
+$CMP CSS2725FTL250
+D RES 250 UOHM 1% 4W 2725
 K R res shunt resistor
-F https://riedon.com/media/pdf/CSRL.pdf
 $ENDCMP
 #
 #End Doc Library

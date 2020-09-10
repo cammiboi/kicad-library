@@ -6,4 +6,10 @@ K screw terminal
 F ~
 $ENDCMP
 #
+$CMP B2C-PCB
+D 30A screw wire terminal, snap fit
+K screw terminal
+F ~
+$ENDCMP
+#
 #End Doc Library
