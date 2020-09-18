@@ -6,9 +6,21 @@ K R res shunt resistor
 F https://riedon.com/media/pdf/CSRL.pdf
 $ENDCMP
 #
+$CMP CSRL3-0R001F8
+D Shunt resistor, 1m, 2512 3W
+K R res shunt resistor
+F https://riedon.com/media/pdf/CSRL.pdf
+$ENDCMP
+#
 $CMP CSS2725FTL250
 D RES 250 UOHM 1% 4W 2725
 K R res shunt resistor
+$ENDCMP
+#
+$CMP WSLF25122L000FEB
+D RES 2m OHM 1% 5W 2512
+K R res shunt resistor
+F https://www.vishay.com/docs/30193/wslf.pdf
 $ENDCMP
 #
 #End Doc Library

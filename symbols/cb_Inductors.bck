@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP PQ2614BHA-2R2K
+D Shielded Power Inductor
+K inductor choke coil reactor magnetic
+F https://www.bourns.com/docs/product-datasheets/pq2614.pdf?sfvrsn=731575f6_12
+$ENDCMP
+#
+$CMP PQ2614BLA-2R2K
+D Shielded Power Inductor
+K inductor choke coil reactor magnetic
+F https://www.bourns.com/docs/product-datasheets/pq2614.pdf?sfvrsn=731575f6_12
+$ENDCMP
+#
 $CMP PQ2614BLA-3R3K
 D Shielded Power Inductor
 K inductor choke coil reactor magnetic

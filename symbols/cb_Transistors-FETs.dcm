@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BSC0901NSIATMA1
+D Power, Single, N-Channel, SO-8FL
+K MOSFET, FET
+F https://www.infineon.com/dgdl/BSC0901NSI_Rev_2.1.pdf?folderId=db3a304313b8b5a60113cee8763b02d7&fileId=db3a30432f29829e012f2aa7bdc30067
+$ENDCMP
+#
 $CMP NTMFS4C022N
 D Power, Single, N-Channel, SO-8FL
 K MOSFET, FET
