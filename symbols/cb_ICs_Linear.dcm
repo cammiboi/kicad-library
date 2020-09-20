@@ -12,4 +12,10 @@ K cmp open collector
 F https://www.st.com/resource/en/datasheet/lm2901.pdf
 $ENDCMP
 #
+$CMP TLVH431AICT
+D IC VREF SHUNT 18V 0.5% SOT323-6L
+K diode device shunt regulator
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/59/e3/67/c7/33/76/47/48/DM00057412.pdf/files/DM00057412.pdf/jcr:content/translations/en.DM00057412.pdf
+$ENDCMP
+#
 #End Doc Library
