@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BAS70-04W,115
+D Dual schottky barrier diode, in series, SOT-323
+K dual schottky diode
+F https://assets.nexperia.com/documents/data-sheet/BAS70_1PS7XSB70_SER.pdf
+$ENDCMP
+#
 $CMP MM3Z15VT1G
 D 300mW Zener Diode, SOD-323F
 K zener diode
