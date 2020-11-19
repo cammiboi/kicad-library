@@ -1,0 +1,14 @@
+(module NetTie-2_SMD_Pad0.8mm (layer F.Cu) (tedit 5FB3FE44)
+  (descr "Net tie, 2 pin, 2.0mm square SMD pads")
+  (tags "net tie")
+  (attr virtual)
+  (fp_text reference REF** (at 0 -2) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value NetTie-2_SMD_Pad0.8mm (at 0 2) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_poly (pts (xy -2 -0.4) (xy -0.2 -0.4) (xy -0.2 0.4) (xy -2 0.4)) (layer F.Cu) (width 0))
+  (pad 1 smd circle (at -2 0) (size 0.8 0.8) (layers F.Cu))
+  (pad 2 smd circle (at -0.25 0) (size 0.8 0.8) (layers F.Cu))
+)
