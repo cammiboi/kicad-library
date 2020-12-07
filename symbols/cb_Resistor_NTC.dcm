@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NTCG104EF104FT1SX
+D Temperature dependent resistor, negative temperature coefficient
+K thermistor NTC resistor sensor RTD
+F https://product.tdk.com/en/search/sensor/ntc/chip-ntc-thermistor/info?part_no=NTCG104EF104FT1SX
+$ENDCMP
+#
+#End Doc Library

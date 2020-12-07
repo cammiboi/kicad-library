@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1985218
+D Terminal block press contact 3.5mm 4 pos
+K screw terminal
+F https://www.phoenixcontact.com/online/portal/us/?uri=pxc-oc-itemdetail:pid=1985218&library=usen&pcck=P&tab=1&selectedCategory=ALL
+$ENDCMP
+#
+$CMP 43650-0203
+D Generic connector, single row, 01x02
+K connector
+F https://www.molex.com/pdm_docs/sd/436500303_sd.pdf
+$ENDCMP
+#
+$CMP 43650-0218
+D Generic connector, single row, 01x02
+K connector
+F https://www.molex.com/pdm_docs/sd/436500218_sd.pdf
+$ENDCMP
+#
+$CMP 43650-0303
+D Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F https://www.molex.com/pdm_docs/sd/436500303_sd.pdf
+$ENDCMP
+#
+$CMP 43650-0318
+D Generic connector, single row, 01x02
+K connector
+F https://www.molex.com/pdm_docs/sd/436500218_sd.pdf
+$ENDCMP
+#
+$CMP TC2030-IDC-NL
+D Header, Tagconnect, 2x6, No pins, Footprint only
+K connector
+F https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf
+$ENDCMP
+#
+#End Doc Library

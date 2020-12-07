@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP QMA7981
+D Single-Chip 3-Axis Accelerometer, SPI/I2C interface, LGA-12
+K accelerometer gyro mems motion
+F https://datasheet.lcsc.com/szlcsc/1912111437_QST-QMA7981_C457290.pdf
+$ENDCMP
+#
+$CMP SMD0805-20
+D Ambient Light Sensor
+$ENDCMP
+#
+#End Doc Library

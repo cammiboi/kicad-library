@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP NRS4018T100MDGJ
+D Shielded Power Inductor
+K inductor choke coil reactor magnetic
+F https://ds.yuden.co.jp/TYCOMPAS/ut/detail?pn=NRS4018T100MDGJ%20%20&u=M
+$ENDCMP
+#
 $CMP PQ2614BHA-2R2K
 D Shielded Power Inductor
 K inductor choke coil reactor magnetic

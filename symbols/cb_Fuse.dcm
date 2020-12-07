@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0ZCF0200AF2C
+D Resettable fuse, polymeric positive temperature coefficient
+K resettable fuse PTC PPTC polyfuse polyswitch
+F https://datasheet.octopart.com/0ZCF0200AF2C-Bel-Fuse-datasheet-138895720.pdf
+$ENDCMP
+#
+$CMP MF-NSMF020-2
+D Resettable fuse, 200mA Ihold, 24V
+K resettable fuse PTC PPTC polyfuse polyswitch
+F https://datasheet.lcsc.com/szlcsc/BOURNS-MF-NSMF020-2_C185112.pdf
+$ENDCMP
+#
+#End Doc Library
