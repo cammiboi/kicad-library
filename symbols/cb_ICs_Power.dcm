@@ -18,4 +18,10 @@ K high-side power distribution switch
 F https://www.ti.com/lit/ds/symlink/tps22919.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1598855606344
 $ENDCMP
 #
+$CMP TPS259540DSG
+D 5V/12V eFuse Protection Switch
+K efuse protection switch
+F https://www.ti.com/lit/ds/symlink/tps2595.pdf?ts=1607448786162
+$ENDCMP
+#
 #End Doc Library

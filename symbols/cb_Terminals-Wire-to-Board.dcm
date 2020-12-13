@@ -12,6 +12,12 @@ K screw terminal
 F https://lugsdirect.com/B2C-PCB-HEX.htm
 $ENDCMP
 #
+$CMP OQ0232510000G
+D TERM BLOCK HDR 4POS 90DEG 3.81MM
+K connector
+F http://www.anytek.com.tw/UserUpFiles/20181018/_S_eBwgMo_mC.pdf
+$ENDCMP
+#
 $CMP OQ0432510000G
 D TERM BLOCK HDR 4POS 90DEG 3.81MM
 K connector

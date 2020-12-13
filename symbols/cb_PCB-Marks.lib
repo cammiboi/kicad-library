@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# logo_large
+#
+DEF logo_large LG 0 0 N N 1 F N
+F0 "LG" -125 150 50 H I C CNN
+F1 "logo_large" 175 150 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 0 25 0 50 0 0 0 "LOGO LARGE" Normal 0 C C
+S -250 75 300 -75 0 0 0 N
+ENDDRAW
+ENDDEF
+#
+# logo_small
+#
+DEF logo_small LG 0 0 N N 1 F N
+F0 "LG" -125 150 50 H I C CNN
+F1 "logo_small" 175 150 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 0 25 0 50 0 0 0 "LOGO SMALL" Normal 0 C C
+S -250 75 300 -75 0 0 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library
