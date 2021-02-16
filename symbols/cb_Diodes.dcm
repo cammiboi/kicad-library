@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BAS316
+D 100V 0.25A Fast switching Diode, SOD-323
+K diode
+F https://www.vishay.com/docs/85751/1n4148ws.pdf
+$ENDCMP
+#
 $CMP BAS70-04W,115
 D Dual schottky barrier diode, in series, SOT-323
 K dual schottky diode
@@ -52,6 +58,12 @@ F https://www.littelfuse.com/products/tvs-diodes/surface-mount/~/media/electroni
 $ENDCMP
 #
 $CMP SMF13A
+D Unidirectional transient-voltage-suppression diode
+K diode TVS thyrector
+F ~
+$ENDCMP
+#
+$CMP SMF16A
 D Unidirectional transient-voltage-suppression diode
 K diode TVS thyrector
 F ~

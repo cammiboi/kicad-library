@@ -6,4 +6,10 @@ K switch single-pole double-throw spdt ON-ON
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825232&DocType=Customer+Drawing&DocLang=English&PartCntxt=1825232-1&DocFormat=pdf
 $ENDCMP
 #
+$CMP TS3625A
+D Push button switch, two pins
+K switch normally-open pushbutton push-button
+F https://datasheet.lcsc.com/szlcsc/1906201928_SHOU-HAN-TS3625A_C398053.pdf
+$ENDCMP
+#
 #End Doc Library

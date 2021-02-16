@@ -5,4 +5,10 @@ D RGB LED with integrated controller
 K RGB LED NeoPixel addressable
 $ENDCMP
 #
+$CMP XL-1615RGBC-RF
+D RGB LED, SMT, common cathode, 1.6mm x 1.5mm
+K LED RGB diode
+F https://datasheet.lcsc.com/szlcsc/2012301032_XINGLIGHT-XL-1615RGBC-RF_C965840.pdf
+$ENDCMP
+#
 #End Doc Library

@@ -6,4 +6,10 @@ K LIN Transceiver
 F https://www.onsemi.com/pub/Collateral/NCV7329-D.PDF
 $ENDCMP
 #
+$CMP SM16206S
+D 16-bit constant current LED sink driver, HTSSOP-24
+K Shift Register LED driver 16 bit
+F https://datasheet.lcsc.com/szlcsc/2003131816_Shenzhen-Sunmoon-Micro-SM16206S_C121618.pdf
+$ENDCMP
+#
 #End Doc Library

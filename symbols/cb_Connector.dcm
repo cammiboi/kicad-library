@@ -30,10 +30,28 @@ K connector
 F https://www.molex.com/pdm_docs/sd/436500218_sd.pdf
 $ENDCMP
 #
+$CMP 43650-0324
+D Generic connector, single row, 01x02
+K connector
+F https://www.molex.com/pdm_docs/sd/436500218_sd.pdf
+$ENDCMP
+#
 $CMP TC2030-IDC-NL
 D Header, Tagconnect, 2x6, No pins, Footprint only
 K connector
 F https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf
+$ENDCMP
+#
+$CMP USB_B_Mini
+D USB Mini Type B connector
+K connector USB mini
+F ~
+$ENDCMP
+#
+$CMP USB_Micro_MICRO_4P_DIP
+D USB Micro Type B connector
+K connector USB micro
+F https://datasheet.lcsc.com/szlcsc/1912111437_SHOU-HAN-MICRO-4P-DIP_C456008.pdf
 $ENDCMP
 #
 #End Doc Library

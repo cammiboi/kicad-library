@@ -6,6 +6,30 @@ K ldo regulator voltage linear
 F http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/bdxxfc0wefj-e.pdf
 $ENDCMP
 #
+$CMP HX7150
+D 60mA, Low Dropout Voltage Regulator, 5V positive fixed output, SOT-23 package
+K ldo linear fixed positive
+F https://datasheet.lcsc.com/szlcsc/hengjiaxing-HX7150_C296178.pdf
+$ENDCMP
+#
+$CMP LM3480-12
+D 100mA, Quasi Low Dropout Voltage Regulator, 12V positive fixed output, SOT-23 package
+K ldo linear fixed positive
+F http://www.ti.com/lit/ds/symlink/lm3480.pdf
+$ENDCMP
+#
+$CMP LM3480-15
+D 100mA, Quasi Low Dropout Voltage Regulator, 15V positive fixed output, SOT-23 package
+K ldo linear fixed positive
+F http://www.ti.com/lit/ds/symlink/lm3480.pdf
+$ENDCMP
+#
+$CMP LM3480-5.0
+D 100mA, Quasi Low Dropout Voltage Regulator, 5.0V positive fixed output, SOT-23 package
+K ldo linear fixed positive
+F http://www.ti.com/lit/ds/symlink/lm3480.pdf
+$ENDCMP
+#
 $CMP MIC2606
 D 2 Mhz PWM Boost Regulator with Internal Schotty Diode, MLF-8
 K boost switching voltage converter regulator
