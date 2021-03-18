@@ -6,6 +6,12 @@ K capacitor cap
 F ~
 $ENDCMP
 #
+$CMP C_0402_50V_C0G_100p
+D Unpolarized capacitor, small symbol
+K capacitor cap
+F ~
+$ENDCMP
+#
 $CMP C_0402_50V_COG_47p
 D Unpolarized capacitor, small symbol
 K capacitor cap
@@ -31,6 +37,12 @@ F ~
 $ENDCMP
 #
 $CMP C_0402_50V_X7R_330p
+D Unpolarized capacitor, small symbol
+K capacitor cap
+F ~
+$ENDCMP
+#
+$CMP C_0402_50V_X7R_470p
 D Unpolarized capacitor, small symbol
 K capacitor cap
 F ~
@@ -79,6 +91,12 @@ F ~
 $ENDCMP
 #
 $CMP C_0805_16V_X5R_10u
+D Unpolarized capacitor, small symbol
+K capacitor cap
+F ~
+$ENDCMP
+#
+$CMP C_0805_16V_X7R_4u7
 D Unpolarized capacitor, small symbol
 K capacitor cap
 F ~
