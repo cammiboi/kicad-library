@@ -1,5 +1,16 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP B5819W
+D Schottky diode
+K diode Schottky
+$ENDCMP
+#
+$CMP BAS316
+D 100V 0.25A Fast switching Diode, SOD-323
+K diode
+F https://www.vishay.com/docs/85751/1n4148ws.pdf
+$ENDCMP
+#
 $CMP BAS70-04W,115
 D Dual schottky barrier diode, in series, SOT-323
 K dual schottky diode
@@ -10,6 +21,11 @@ $CMP MM3Z15VT1G
 D 300mW Zener Diode, SOD-323F
 K zener diode
 F https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/MM3ZyyyT1G_SZMM3ZyyyT1G_Series_rev.11_Sep2014.pdf
+$ENDCMP
+#
+$CMP MMBZ18VALT1G
+D TVS Diode Array, 12V standoff, 2 Channels, SOT-23 package
+F https://www.onsemi.com/pub/Collateral/MMBZ5V6ALT1-D.PDF
 $ENDCMP
 #
 $CMP PESD1LIN
@@ -34,12 +50,6 @@ K usb esd protection suppression transient
 F http://www.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf
 $ENDCMP
 #
-$CMP SMBJP6KE16CA-TP
-D Bidirectional transient-voltage-suppression diode
-K diode TVS thyrector
-F ~
-$ENDCMP
-#
 $CMP SMCJ16A
 D TVS DIODE
 K ESD5Z3.3T1GOSCT-ND
@@ -53,6 +63,18 @@ F https://www.littelfuse.com/products/tvs-diodes/surface-mount/~/media/electroni
 $ENDCMP
 #
 $CMP SMF13A
+D Unidirectional transient-voltage-suppression diode
+K diode TVS thyrector
+F ~
+$ENDCMP
+#
+$CMP SMF16A
+D Unidirectional transient-voltage-suppression diode
+K diode TVS thyrector
+F ~
+$ENDCMP
+#
+$CMP SMF24A
 D Unidirectional transient-voltage-suppression diode
 K diode TVS thyrector
 F ~

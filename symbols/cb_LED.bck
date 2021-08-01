@@ -9,13 +9,19 @@ $ENDCMP
 $CMP LED_0603_Green
 D Light emitting diode, filled shape
 K LED diode
-F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf
+F ~
+$ENDCMP
+#
+$CMP LED_0603_Red
+D Light emitting diode, filled shape
+K LED diode
+F ~
 $ENDCMP
 #
 $CMP LED_0603_Yellow
-D Light emitting diode
+D Light emitting diode, filled shape
 K LED diode
-F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-19-213-Y2C-CQ2R2L-3T-CY_C72038.pdf
+F ~
 $ENDCMP
 #
 $CMP WS2812B-MINI

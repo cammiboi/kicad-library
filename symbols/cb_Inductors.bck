@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP HQ1005C2N0ST
+D Inductor
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP MPH201210S2R2MT
+D Inductor
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
 $CMP NRS4018T100MDGJ
 D Shielded Power Inductor
 K inductor choke coil reactor magnetic

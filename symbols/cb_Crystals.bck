@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TAXM8M4RDBCCT2T
+D Four pin crystal, GND on pins 2 and 4, small symbol
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
+$CMP X322540MPB4SI
+D Four pin crystal, GND on pins 2 and 4, small symbol
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
+#End Doc Library

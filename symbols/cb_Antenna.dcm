@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ANT3216LL00R2400A
+D Antenna Chip 2.4Ghz 3216
+K antenna
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/wireless/An_Ceramiz_2450_3216_L00_0.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -12,4 +12,10 @@ K Shift Register LED driver 16 bit
 F https://datasheet.lcsc.com/szlcsc/2003131816_Shenzhen-Sunmoon-Micro-SM16206S_C121618.pdf
 $ENDCMP
 #
+$CMP SN65HVD230DR
+D IC TXRX CAN 1MBPS 3.3V 8SOIC
+K 296-11654-1-ND
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn65hvd230
+$ENDCMP
+#
 #End Doc Library

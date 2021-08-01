@@ -12,6 +12,12 @@ K transistor PMOS P-MOS P-MOSFET
 F https://datasheet.lcsc.com/szlcsc/1912111437_HX-hengjiaxing-HX2301A_C296298.pdf
 $ENDCMP
 #
+$CMP L2N7002DW1T1G
+D Dual NMOS transistor, 6 pin package
+K transistor NMOS N-MOS N-MOSFET
+F https://datasheet.lcsc.com/lcsc/1912111437_LRC-L2N7002DW1T1G_C383161.pdf
+$ENDCMP
+#
 $CMP NTMFS4C022N
 D Power, Single, N-Channel, SO-8FL
 K MOSFET, FET

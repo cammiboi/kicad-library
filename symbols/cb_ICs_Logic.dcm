@@ -5,6 +5,11 @@ D 2-Input Single AND Gate/ Logic Level Shifter
 K AND
 $ENDCMP
 #
+$CMP M74VHC1GT126DF1G
+D 2-Input Single AND Gate/ Logic Level Shifter
+K BUFFER
+$ENDCMP
+#
 $CMP SN74AHCT125PW
 D IC BUF NON-INVERT 5.5V 14TSSOP
 F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ahct125
