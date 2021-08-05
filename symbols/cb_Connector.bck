@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 1.27MM_2x5_JTAG
+K connector
+F ~
+$ENDCMP
+#
 $CMP 105314-1104
 K connector
 $ENDCMP
@@ -43,6 +48,12 @@ $ENDCMP
 $CMP I2C_QWIIC
 D SparkFun I<sup>2</sup>C Standard Pinout Header SparkFun has standardized on a pinout for all I<sup>2</sup>C based sensor breakouts.<br><br>This pinout allows I<sup>2</sup>C boards to be plugged directly into the headers on Arduino Uno compatible boards, andto be daisy chained easily. <b>Example SparkFun Products:</b><ul><li><a href="https://www.sparkfun.com/products/13676">SparkFun Atmospheric Sensor Breakout - BME280</a></li><li><a href= https://www.sparkfun.com/products/11084 >SparkFun Altitude/Pressure Sensor Breakout - MPL3115A2</a></li><li><a href= https://www.sparkfun.com/products/12785 >SparkFun TOF Range Finder Sensor - VL6180</a></li></ul>
 K PROD_ID:CONN-13729
+$ENDCMP
+#
+$CMP KH-TYPE-C-16P
+D USB 2.0-only Type-C Receptacle connector
+K usb universal serial bus type-C USB2.0
+F https://datasheet.lcsc.com/lcsc/2009111434_Shenzhen-Kinghelm-Elec-KH-TYPE-C-16P_C709357.pdf
 $ENDCMP
 #
 $CMP TC2030-IDC-NL

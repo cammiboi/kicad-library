@@ -12,6 +12,12 @@ K switch normally-open pushbutton push-button
 F https://media.digikey.com/pdf/Data%20Sheets/Mitsumi%20Elect/STO-060A16AB_R66-7995.pdf
 $ENDCMP
 #
+$CMP SW_Push_2mmx3mm_STO-060A16AB
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+F ~
+$ENDCMP
+#
 $CMP TS3625A
 D Push button switch, two pins
 K switch normally-open pushbutton push-button
