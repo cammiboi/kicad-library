@@ -18,4 +18,10 @@ K switch normally-open pushbutton push-button
 F https://datasheet.lcsc.com/szlcsc/1906201928_SHOU-HAN-TS3625A_C398053.pdf
 $ENDCMP
 #
+$CMP TS5220A
+D Push button switch, two pins
+K switch normally-open pushbutton push-button
+F https://datasheet.lcsc.com/szlcsc/1906201928_SHOU-HAN-TS3625A_C398053.pdf
+$ENDCMP
+#
 #End Doc Library

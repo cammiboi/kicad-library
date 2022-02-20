@@ -1,5 +1,29 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 1003
+D R 0402 1% 47k0
+K SMD Resistor
+F ~
+$ENDCMP
+#
+$CMP 1009
+D R 0402 1% 100k
+K SMD Resistor
+F ~
+$ENDCMP
+#
+$CMP 1010
+D R 0402 1% 39k0
+K SMD Resistor
+F ~
+$ENDCMP
+#
+$CMP 1011
+D R 0402 1% 82k0
+K SMD Resistor
+F ~
+$ENDCMP
+#
 $CMP RNCP1206FTD1K00
 D Resistor, US symbol
 K R res resistor

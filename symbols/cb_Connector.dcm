@@ -5,6 +5,12 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP 1006
+D AFA07-S20FCC-00, FPC Connector, 20 pins, 1mm pitch, slide lock
+K FPC
+F https://datasheet.lcsc.com/lcsc/1811021337_JUSHUO-AFA07-S20FCC-00_C262352.pdf
+$ENDCMP
+#
 $CMP 105314-1104
 K connector
 $ENDCMP

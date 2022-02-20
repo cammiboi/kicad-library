@@ -1,7 +1,19 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP C_0402_25V_X7R_100n
-D Unpolarized capacitor, small symbol
+$CMP 1004
+D C_0402_50V_COG_47p
+K capacitor cap
+F ~
+$ENDCMP
+#
+$CMP 1005
+D C_0402_25V_X7R_100n
+K capacitor cap
+F ~
+$ENDCMP
+#
+$CMP 1007
+D C_0805_16V_X5R_10u
 K capacitor cap
 F ~
 $ENDCMP
@@ -31,12 +43,6 @@ F ~
 $ENDCMP
 #
 $CMP C_0402_50V_COG_2p2
-D Unpolarized capacitor, small symbol
-K capacitor cap
-F ~
-$ENDCMP
-#
-$CMP C_0402_50V_COG_47p
 D Unpolarized capacitor, small symbol
 K capacitor cap
 F ~
@@ -109,12 +115,6 @@ F ~
 $ENDCMP
 #
 $CMP C_0603_50V_X7R_100n
-D Unpolarized capacitor, small symbol
-K capacitor cap
-F ~
-$ENDCMP
-#
-$CMP C_0805_16V_X5R_10u
 D Unpolarized capacitor, small symbol
 K capacitor cap
 F ~

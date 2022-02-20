@@ -1,5 +1,22 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 1001
+D TMUX1308, 8:1 analog mux, TSSOP-16
+K analog switch selector multiplexer
+F https://www.ti.com/lit/ds/symlink/tmux1308.pdf?ts=1634313007812&ref_url=https%253A%252F%252Fwww.mouser.ca%252F
+$ENDCMP
+#
+$CMP 1002
+D LMV358, Dual Operational Amplifiers, SOIC-8
+K dual opamp
+F https://www.ti.com/lit/ds/symlink/lmv358.pdf?ts=1634304722123&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FLMV358
+$ENDCMP
+#
+$CMP 1008
+D Audio amplifier, 2.5W, SOIC-8
+K audio amplifier
+$ENDCMP
+#
 $CMP INA2180A4IDSG
 D Dual High-Side Voltage Output, Current-Sense Amplifiers
 K current sense amplifier
